@@ -11,6 +11,7 @@
 		<en><![CDATA[With activated chopper the straw is visibly left on the field. By cultivating or ploughing it may fertilize your field. This can be controlled by the map creator.]]></en>
 		<de><![CDATA[Bei aktiviertem Strohhäcksler bleibt sichtbar Stroh auf dem Feld zurück. Durch Grubbern oder Pflügen kann eine Düngung des Feldes erfolgen. Das kann vom Ersteller der Map gesteuert werden.]]></de>
 		<fr><![CDATA[La paille hachée reste sur le champ après l'utilisation du broyeur sur une moissonneuse. En cultivant ou labourant il peut fertiliser votre champ. Cela peut être contrôlé par le créateur de carte.]]></fr>
+		<es><![CDATA[Con el chopped activado, la paja queda visiblemente en el campo. Al cultivar o arar, puede fertilizar su campo. Esto puede ser controlado por el creador del mapa.]]></es>
 	</description>
 	<iconFilename>ChoppedStraw.dds</iconFilename>
 	<multiplayer supported="true"/>
